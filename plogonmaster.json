@@ -16,8 +16,8 @@
     "Punchline": "Let others see you as you see yourself.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "http://client.underscoregaming.com/latest.zip",
-    "DownloadLinkTesting": "http://client.underscoregaming.com/latest.zip",
-    "DownloadLinkUpdate": "http://client.underscoregaming.com/latest.zip"
+    "DownloadLinkInstall": "https://client.underscoregaming.com/1.2.0.zip",
+    "DownloadLinkTesting": "https://client.underscoregaming.com/1.2.0.zip",
+    "DownloadLinkUpdate": "https://client.underscoregaming.com/1.2.0.zip"
   }
 ]
