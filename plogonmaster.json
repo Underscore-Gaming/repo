@@ -1,9 +1,9 @@
 [
   {
     "Author": "Nightmare",
-    "Name": "Someone Killed The Horse",
-    "InternalName": "MareSynchronos",
-    "AssemblyVersion": "1.11.0.0",
+    "Name": "Unsung Sync",
+    "InternalName": "Unsung Sync",
+    "AssemblyVersion": "1.2.0.0",
     "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Underscore-Gaming/client",
