@@ -2,7 +2,7 @@
   {
     "Author": "Nightmare",
     "Name": "Unsung Sync",
-    "InternalName": "Unsung Sync",
+    "InternalName": "UnsungSync",
     "AssemblyVersion": "1.2.0.0",
     "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
     "ApplicableVersion": "any",
