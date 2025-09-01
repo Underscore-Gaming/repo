@@ -3,7 +3,7 @@
     "Author": "Nightmare",
     "Name": "Unsung Sync",
     "InternalName": "UnsungSync",
-    "AssemblyVersion": "1.2.0.0",
+    "AssemblyVersion": "1.2.1.0",
     "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Underscore-Gaming/client",
@@ -16,8 +16,8 @@
     "Punchline": "Let others see you as you see yourself.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://github.com/Underscore-Gaming/client/releases/download/v1.2.0/1.2.0.zip",
-    "DownloadLinkTesting": "https://github.com/Underscore-Gaming/client/releases/download/v1.2.0/1.2.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Underscore-Gaming/client/releases/download/v1.2.0/1.2.0.zip"
+    "DownloadLinkInstall": "https://github.com/Underscore-Gaming/client/releases/download/v1.2.1/1.2.1.zip",
+    "DownloadLinkTesting": "https://github.com/Underscore-Gaming/client/releases/download/v1.2.1/1.2.1.zip",
+    "DownloadLinkUpdate": "https://github.com/Underscore-Gaming/client/releases/download/v1.2.1/1.2.1.zip"
   }
 ]
